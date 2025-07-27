@@ -49,5 +49,3 @@ This project is an **analog function generator** designed to output **sine**, **
 This repository includes **circuit schematics**, **simulation files**, **component lists**, and a **detailed report** on **design** and **testing procedures**—ideal for **students** and **hobbyists** learning about **analog electronics** and **waveform generation**.
 
 ---
-
-Let me know if you'd like this formatted for a **PDF**, **poster**, or **presentation**.
