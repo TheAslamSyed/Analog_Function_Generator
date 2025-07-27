@@ -1,37 +1,53 @@
-# Analog_Function_Generator
-Analog Function Generator
-This project is an analog function generator designed to output sine, square, triangular, and sawtooth waveforms with variable frequency from 20Hz to 20,000Hz. Built for electronics lab applications, it uses operational amplifiers (Op-Amp 741), transistors, and precision analog circuitry to deliver accurate waveform generation ideal for testing and experimentation.
+Sure! Here's your content with all important **headings** and **key technical terms** bolded for emphasis:
 
-Key Features:
+---
 
-Generates sine, square, triangular, and sawtooth waveforms suitable for signal testing and analysis.
+# **Analog Function Generator**
 
-Adjustable frequency range (20Hz–20,000Hz) achieved with potentiometer-based tuning.
+This project is an **analog function generator** designed to output **sine**, **square**, **triangular**, and **sawtooth waveforms** with **variable frequency** from **20Hz to 20,000Hz**. Built for **electronics lab applications**, it uses **operational amplifiers (Op-Amp 741)**, **transistors**, and **precision analog circuitry** to deliver **accurate waveform generation** ideal for **testing and experimentation**.
 
-Sine wave generation utilizes a Wein Bridge Oscillator with amplitude stabilization for low-distortion output.
+---
 
-Square and triangular waves generated using comparator and integrator stages for stable operation.
+### **Key Features:**
 
-Sawtooth waveform created by modifying the triangular wave circuit using a variable potentiometer to control rise and fall times.
+* Generates **sine**, **square**, **triangular**, and **sawtooth waveforms** suitable for **signal testing and analysis**.
 
-Robust ±15V power supply circuit using transformer, rectifier, and IC voltage regulators (LM7815/LM7915).
+* **Adjustable frequency range (20Hz–20,000Hz)** achieved with **potentiometer-based tuning**.
 
-Simulated and validated using tools like Multisim or Proteus to ensure waveform fidelity and frequency response.
+* **Sine wave generation** utilizes a **Wein Bridge Oscillator** with **amplitude stabilization** for **low-distortion output**.
 
-Modular design: Each waveform generator can be used independently or as part of the main function generator.
+* **Square** and **triangular waves** generated using **comparator** and **integrator stages** for **stable operation**.
 
-Components Used:
+* **Sawtooth waveform** created by modifying the **triangular wave circuit** using a **variable potentiometer** to control **rise and fall times**.
 
-Op-Amp ICs (741), transistors, resistors, capacitors, diodes
+* Robust **±15V power supply circuit** using **transformer**, **rectifier**, and **IC voltage regulators (LM7815/LM7915)**.
 
-Voltage regulators (LM7815, LM7915)
+* **Simulated and validated** using tools like **Multisim** or **Proteus** to ensure **waveform fidelity** and **frequency response**.
 
-Step-down transformer, bridge rectifier, potentiometers
+* **Modular design**: Each waveform generator can be used **independently** or as part of the **main function generator**.
 
-Simulation: Multisim, Proteus
+---
 
-Team Collaboration:
+### **Components Used:**
 
-Task allocation enabled simultaneous development of sine, square, triangle, and sawtooth generation blocks, ensuring timely delivery.
+* **Op-Amp ICs (741)**, **transistors**, **resistors**, **capacitors**, **diodes**
 
-This repository includes circuit schematics, simulation files, component lists, and a detailed report on design and testing procedures—ideal for students and hobbyists learning about analog electronics and waveform generation
+* **Voltage regulators** (**LM7815**, **LM7915**)
+
+* **Step-down transformer**, **bridge rectifier**, **potentiometers**
+
+* **Simulation**: **Multisim**, **Proteus**
+
+---
+
+### **Team Collaboration:**
+
+* **Task allocation** enabled simultaneous development of **sine**, **square**, **triangle**, and **sawtooth generation blocks**, ensuring **timely delivery**.
+
+---
+
+This repository includes **circuit schematics**, **simulation files**, **component lists**, and a **detailed report** on **design** and **testing procedures**—ideal for **students** and **hobbyists** learning about **analog electronics** and **waveform generation**.
+
+---
+
+Let me know if you'd like this formatted for a **PDF**, **poster**, or **presentation**.
